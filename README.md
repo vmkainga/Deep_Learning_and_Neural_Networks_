@@ -36,7 +36,7 @@ review process, you will be required to compare the effectiveness of your soluti
 some emerging technologies such as Neural Networks.
 
 
-You can use the following guiding notebook [Link].
+
 Dataset
 
 ● Dataset URL: https://bit.ly/2ODZvLCHRDataset
